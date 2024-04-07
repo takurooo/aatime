@@ -17,7 +17,7 @@ To install aatime, you need to have Go installed on your system.
 Then, you can use the following command:
 
 ```shell
-go install github.com/takurooo/aatime
+go install github.com/takurooo/aatime@latest
 ```
 
 ## Usage
